@@ -38,6 +38,7 @@ include 'test/integration-tests-ad'
 include 'samples/plain'
 include 'samples/odm'
 include 'samples/boot'
+include 'samples/user-admin'
 
 
 rootProject.children.each { p->

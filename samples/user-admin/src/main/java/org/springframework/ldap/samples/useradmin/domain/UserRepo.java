@@ -16,7 +16,7 @@
 
 package org.springframework.ldap.samples.useradmin.domain;
 
-import org.springframework.ldap.repository.LdapRepository;
+import org.springframework.data.ldap.repository.LdapRepository;
 
 import java.util.List;
 
